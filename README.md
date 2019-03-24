@@ -42,10 +42,6 @@ Running the project
       * USER     - Your user name that you had created
       * TOKEN    - Token returned by the bot in your first interaction
       * VALUE    - How much money you will pay
-    * EXCHANGE [CURRENCY_1] [CURRENCY_2]
-      * EXCHANGE   - Transaction that you need to do
-      * CURRENCY_1 - Your user name that you had created
-      * CURRENCY_2 - Token returned by the bot in your first interaction
       
  If you have any doubts about the project, you can send me an e-mail and I will answer as soon as possible.
   * E-mail: renan.c.s.o@gmail.com
